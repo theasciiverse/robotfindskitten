@@ -1,0 +1,7 @@
+# robotfindskitten, its 726 non-kitten items (read from ./nki), man page,
+# licence, readme
+out/robotfindskitten
+nki/vanilla.nki -> nki/vanilla.nki
+doc/robotfindskitten.6
+COPYING
+README.md

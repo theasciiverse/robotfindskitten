@@ -33,3 +33,10 @@ src/Makefile.in
 src/robotfindskitten
 src/robotfindskitten.o
 stamp-h1
+# Asciiverse packaging: build output and archives; asciiverse/config.h
+# stands in for configure's config.h and is kept
+out/
+stage/
+dist/
+__pycache__/
+!asciiverse/config.h
