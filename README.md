@@ -1,3 +1,16 @@
+> **Play it with Asciiverse.** With [av](https://asciiverse.sh), the Asciiverse
+> client:
+>
+> ```
+> av install robotfindskitten
+> av play robotfindskitten
+> ```
+>
+> Or download the archive for your system from this repository's Releases,
+> unpack it and run `./robotfindskitten` (`robotfindskitten.exe` on Windows).
+>
+> The original README follows.
+
 # robotfindskitten
 
 In 1997, Peter A. Peterson II held a contest for his now-defunct Nerth Pork magazine.

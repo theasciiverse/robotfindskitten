@@ -44,3 +44,9 @@ None: the game is upstream's, unchanged. Everything below is new files.
   `asciiverse/casts/robotfindskitten.cast` (100x30, 52 s).
 - `.gitignore`: build output, and an exception so `asciiverse/config.h`
   is tracked.
+
+## Ours
+
+- **How to play it, at the top of README.md.** A short note on installing and
+  starting it with av, or from a release archive; the original text follows
+  unchanged.
